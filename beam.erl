@@ -1,4 +1,5 @@
 -module(beam).
+
 -export([start/0]).
 
 start() ->
